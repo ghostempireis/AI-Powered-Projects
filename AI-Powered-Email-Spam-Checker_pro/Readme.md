@@ -38,6 +38,7 @@ git clone https:
 Make sure Python 3.8+ is installed, then run:
 ```bash
 pip install -r requirements.txt
+https://github.com/ghostempireis/AI-Powered-Projects.git
 ```
 
 ### 3️⃣ Configure API Key
